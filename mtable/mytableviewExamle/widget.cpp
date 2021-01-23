@@ -1,3 +1,5 @@
+//QTableView : Default model/view implementation of a table view
+
 #include "widget.h"
 #include "ui_widget.h"
 #include <QTableView>

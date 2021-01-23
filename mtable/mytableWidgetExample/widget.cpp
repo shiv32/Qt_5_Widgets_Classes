@@ -1,3 +1,5 @@
+//QTableWidget : Item-based table view with a default model
+
 #include "widget.h"
 #include "ui_widget.h"
 #include <QTableWidget>
